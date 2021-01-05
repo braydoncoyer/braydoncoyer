@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+i[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
 Hey there 👋
 
@@ -50,12 +50,12 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <div>
 <iframe
+    src="https://tinyurl.com/y4gq6tzy"
     title="Coding Playlist"
     allow="autoplay *; encrypted-media *;"
     frameBorder="0"
     height="450"
     width="100%
     sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-    src="https://tinyurl.com/y4gq6tzy"
-/>
+></iframe>
 </div>
