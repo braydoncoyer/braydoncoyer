@@ -9,7 +9,6 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 ## 📝 Latest Blog Posts
 
 <br>
-
 <!-- BLOG-POST-LIST:START -->
 
 - [The progress HTML Tag](https://blog.braydoncoyer.dev/the-lessprogressgreater-html-tag)
@@ -49,7 +48,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 🎶 My Tunes
 
-<br> 
+<div>
 <iframe
     title="Coding Playlist"
     allow="autoplay *; encrypted-media *;"
@@ -59,3 +58,4 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
     sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
     src="https://embed.music.apple.com/us/playlist/the-lord-of-the-rings-the-complete-recordings/pl.u-4D9tmlJYzM"
 />
+</div>
