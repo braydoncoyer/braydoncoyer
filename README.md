@@ -8,6 +8,8 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📝 Latest Blog Posts
 
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 
 - [The progress HTML Tag](https://blog.braydoncoyer.dev/the-lessprogressgreater-html-tag)
@@ -16,6 +18,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 - [Tailwind 2.0 is Live!](https://blog.braydoncoyer.dev/tailwind-20-is-live)
 - [My VSCode Toolbox - 2020](https://blog.braydoncoyer.dev/my-vscode-toolbox-2020)
   <!-- BLOG-POST-LIST:END -->
+
   <br>
 
 ## &#x1f4c8; GitHub Stats
