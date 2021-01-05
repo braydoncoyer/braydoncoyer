@@ -55,7 +55,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
     allow="autoplay *; encrypted-media *;"
     frameBorder="0"
     height="450"
-    width="100%
+    width="100%"
     sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
 ></iframe>
 </div>
