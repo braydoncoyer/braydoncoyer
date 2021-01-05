@@ -1,4 +1,10 @@
-[![Braydon's GitHub banner](https://github.com/braydoncoyer/braydoncoyer/raw/master/assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
+<h1>Hey there 👋</h1>
+
+I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focussed designs into pixel-perfect websites or applications that run blazing fast.
+
+Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
