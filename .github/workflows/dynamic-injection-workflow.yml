@@ -22,6 +22,7 @@ jobs:
 
       - name: Add to git repo
         run: |
+          git config pull.rebase false
           git pull
           git add .
           git config --global user.name "Your Name"
