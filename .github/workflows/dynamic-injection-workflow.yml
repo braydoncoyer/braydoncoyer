@@ -33,6 +33,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
   update-readme-with-blog:
+    needs: get-office-quotes
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
