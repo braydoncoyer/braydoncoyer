@@ -19,3 +19,14 @@ jobs:
       - run: yarn
 
       - run: node .
+
+      - name: Add to git repo
+        run: |
+          git add .
+          git config --global user.name "Your Name"
+          git config --global user.email "Your E-Mail"
+          git commit -m "[Magic] Automated README update"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
