@@ -1,0 +1,21 @@
+name: Get Office Quote
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  stuff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Let the magic happen
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.6.0
+
+      - run: yarn
+
+      - run: node .
