@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lighthouse and Integrating with Netlify](https://blog.braydoncoyer.dev/lighthouse-and-integrating-with-netlify)
-- [The progress HTML Tag](https://blog.braydoncoyer.dev/the-progress-html-tag)
-- [2021: Goals for the New Year](https://blog.braydoncoyer.dev/2021-goals-for-the-new-year)
-- [How to Implement Dark Mode with Tailwind v2.0](https://blog.braydoncoyer.dev/how-to-implement-dark-mode-with-tailwind-v20)
-- [Tailwind 2.0 is Live!](https://blog.braydoncoyer.dev/tailwind-20-is-live)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
