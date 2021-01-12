@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lighthouse and Integrating with Netlify](https://blog.braydoncoyer.dev/lighthouse-and-integrating-with-netlify)
-- [The progress HTML Tag](https://blog.braydoncoyer.dev/the-progress-html-tag)
-- [2021: Goals for the New Year](https://blog.braydoncoyer.dev/2021-goals-for-the-new-year)
-- [How to Implement Dark Mode with Tailwind v2.0](https://blog.braydoncoyer.dev/how-to-implement-dark-mode-with-tailwind-v20)
-- [Tailwind 2.0 is Live!](https://blog.braydoncoyer.dev/tailwind-20-is-live)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,7 +118,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
+> I have a lot of questions. Number one, how dare you?
 >
 > <p>- Kelly Kapoor</p>
 
