@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The kbd HTML Tag](https://blog.braydoncoyer.dev/the-kbd-html-tag)
-- [Lighthouse and Integrating with Netlify](https://blog.braydoncoyer.dev/lighthouse-and-integrating-with-netlify)
-- [The progress HTML Tag](https://blog.braydoncoyer.dev/the-progress-html-tag)
-- [2021: Goals for the New Year](https://blog.braydoncoyer.dev/2021-goals-for-the-new-year)
-- [How to Implement Dark Mode with Tailwind v2.0](https://blog.braydoncoyer.dev/how-to-implement-dark-mode-with-tailwind-v20)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Angela Martin</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
