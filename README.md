@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [No Code: Build Games with GameSalad](https://blog.braydoncoyer.dev/no-code-build-games-with-gamesalad)
-- [The kbd HTML Tag](https://blog.braydoncoyer.dev/the-kbd-html-tag)
-- [Lighthouse and Integrating with Netlify](https://blog.braydoncoyer.dev/lighthouse-and-integrating-with-netlify)
-- [The progress HTML Tag](https://blog.braydoncoyer.dev/the-progress-html-tag)
-- [2021: Goals for the New Year](https://blog.braydoncoyer.dev/2021-goals-for-the-new-year)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Ryan Howard</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
