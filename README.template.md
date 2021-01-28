@@ -125,3 +125,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
+
+<br>
+
+> ### Want to know how I made this README?
+>
+> Check out my [tutorial](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)!
