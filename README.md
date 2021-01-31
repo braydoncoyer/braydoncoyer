@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Killer GitHub Profile README Part 2](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-2)
-- [The cite HTML Tag](https://blog.braydoncoyer.dev/the-cite-html-tag)
-- [Creating a Killer GitHub Profile README Part 1](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
-- [No Code: Build Games with GameSalad](https://blog.braydoncoyer.dev/no-code-build-games-with-gamesalad)
-- [The kbd HTML Tag](https://blog.braydoncoyer.dev/the-kbd-html-tag)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
