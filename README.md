@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Killer GitHub Profile README Part 2](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-2)
-- [The cite HTML Tag](https://blog.braydoncoyer.dev/the-cite-html-tag)
-- [Creating a Killer GitHub Profile README Part 1](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
-- [No Code: Build Games with GameSalad](https://blog.braydoncoyer.dev/no-code-build-games-with-gamesalad)
-- [The kbd HTML Tag](https://blog.braydoncoyer.dev/the-kbd-html-tag)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Michael Scott</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
