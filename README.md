@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Display an Apple Music Playlist on Your Website](https://blog.braydoncoyer.dev/display-an-apple-music-playlist-on-your-website)
-- [Creating a Killer GitHub Profile README Part 2](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-2)
-- [The cite HTML Tag](https://blog.braydoncoyer.dev/the-cite-html-tag)
-- [Creating a Killer GitHub Profile README Part 1](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
-- [No Code: Build Games with GameSalad](https://blog.braydoncoyer.dev/no-code-build-games-with-gamesalad)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Jim Halpert</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
