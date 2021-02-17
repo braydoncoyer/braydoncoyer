@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Code on Your iPad Pro](https://braydoncoyer.hashnode.dev/code-on-your-ipad-pro)
-- [Display an Apple Music Playlist on Your Website](https://braydoncoyer.hashnode.dev/display-an-apple-music-playlist-on-your-website)
-- [Creating a Killer GitHub Profile README Part 2](https://braydoncoyer.hashnode.dev/creating-a-killer-github-profile-readme-part-2)
-- [The cite HTML Tag](https://braydoncoyer.hashnode.dev/the-cite-html-tag)
-- [Creating a Killer GitHub Profile README Part 1](https://braydoncoyer.hashnode.dev/creating-a-killer-github-profile-readme-part-1)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> I. Declare. Bankruptcy!
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
