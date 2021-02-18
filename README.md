@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [6 BEST Fonts for Programming in 2021](https://braydoncoyer.hashnode.dev/6-best-fonts-for-programming-in-2021)
-- [Code on Your iPad Pro](https://braydoncoyer.hashnode.dev/code-on-your-ipad-pro)
-- [Display an Apple Music Playlist on Your Website](https://braydoncoyer.hashnode.dev/display-an-apple-music-playlist-on-your-website)
-- [Creating a Killer GitHub Profile README Part 2](https://braydoncoyer.hashnode.dev/creating-a-killer-github-profile-readme-part-2)
-- [The cite HTML Tag](https://braydoncoyer.hashnode.dev/the-cite-html-tag)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
