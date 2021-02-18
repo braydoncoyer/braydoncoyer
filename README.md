@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [6 BEST Fonts for Programming in 2021](https://braydoncoyer.hashnode.dev/6-best-fonts-for-programming-in-2021)
-- [Code on Your iPad Pro](https://braydoncoyer.hashnode.dev/code-on-your-ipad-pro)
-- [Display an Apple Music Playlist on Your Website](https://braydoncoyer.hashnode.dev/display-an-apple-music-playlist-on-your-website)
-- [Creating a Killer GitHub Profile README Part 2](https://braydoncoyer.hashnode.dev/creating-a-killer-github-profile-readme-part-2)
-- [The cite HTML Tag](https://braydoncoyer.hashnode.dev/the-cite-html-tag)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
