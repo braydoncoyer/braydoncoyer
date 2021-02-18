@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Code on Your iPad Pro](https://braydoncoyer.hashnode.dev/code-on-your-ipad-pro)
-- [Display an Apple Music Playlist on Your Website](https://braydoncoyer.hashnode.dev/display-an-apple-music-playlist-on-your-website)
-- [Creating a Killer GitHub Profile README Part 2](https://braydoncoyer.hashnode.dev/creating-a-killer-github-profile-readme-part-2)
-- [The cite HTML Tag](https://braydoncoyer.hashnode.dev/the-cite-html-tag)
-- [Creating a Killer GitHub Profile README Part 1](https://braydoncoyer.hashnode.dev/creating-a-killer-github-profile-readme-part-1)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
