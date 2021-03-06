@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Web Developer's iPad Setup for Productivity](https://blog.braydoncoyer.dev/a-web-developers-ipad-setup-for-productivity)
-- [6 BEST Fonts for Programming in 2021](https://blog.braydoncoyer.dev/6-best-fonts-for-programming-in-2021)
-- [Code on Your iPad Pro](https://blog.braydoncoyer.dev/code-on-your-ipad-pro)
-- [Display an Apple Music Playlist on Your Website](https://blog.braydoncoyer.dev/display-an-apple-music-playlist-on-your-website)
-- [Creating a Killer GitHub Profile README Part 2](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-2)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Creed Bratton</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
