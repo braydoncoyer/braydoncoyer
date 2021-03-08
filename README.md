@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Web Developer's iPad Setup for Productivity](https://blog.braydoncoyer.dev/a-web-developers-ipad-setup-for-productivity)
-- [6 BEST Fonts for Programming in 2021](https://blog.braydoncoyer.dev/6-best-fonts-for-programming-in-2021)
-- [Code on Your iPad Pro](https://blog.braydoncoyer.dev/code-on-your-ipad-pro)
-- [Display an Apple Music Playlist on Your Website](https://blog.braydoncoyer.dev/display-an-apple-music-playlist-on-your-website)
-- [Creating a Killer GitHub Profile README Part 2](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-2)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
