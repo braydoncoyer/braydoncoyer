@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [GatsbyConf 2021 - Gatsby v3.0 And The New Gatsby Plugin Image](https://blog.braydoncoyer.dev/gatsbyconf-2021-gatsby-v30-and-the-new-gatsby-plugin-image)
-- [A Web Developer's iPad Setup for Productivity](https://blog.braydoncoyer.dev/a-web-developers-ipad-setup-for-productivity)
-- [6 BEST Fonts for Programming in 2021](https://blog.braydoncoyer.dev/6-best-fonts-for-programming-in-2021)
-- [Code on Your iPad Pro](https://blog.braydoncoyer.dev/code-on-your-ipad-pro)
-- [Display an Apple Music Playlist on Your Website](https://blog.braydoncoyer.dev/display-an-apple-music-playlist-on-your-website)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Ryan Howard</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
