@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Yourself Up for Success: How I Define MVP (Minimal Viable Product)](https://blog.braydoncoyer.dev/setting-yourself-up-for-success-how-i-define-mvp-minimal-viable-product)
-- [GatsbyConf 2021 - Gatsby v3.0 And The New Gatsby Plugin Image](https://blog.braydoncoyer.dev/gatsbyconf-2021-gatsby-v30-and-the-new-gatsby-plugin-image)
-- [A Web Developer's iPad Setup for Productivity](https://blog.braydoncoyer.dev/a-web-developers-ipad-setup-for-productivity)
-- [6 BEST Fonts for Programming in 2021](https://blog.braydoncoyer.dev/6-best-fonts-for-programming-in-2021)
-- [Code on Your iPad Pro](https://blog.braydoncoyer.dev/code-on-your-ipad-pro)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
