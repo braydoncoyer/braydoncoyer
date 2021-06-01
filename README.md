@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Glassmorphic Navbar with TailwindCSS backdrop-filter & backdrop-blur](https://blog.braydoncoyer.dev/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-and-backdrop-blur)
-- [Creating the JAMstack Logo with CSS: A Step-By-Step Guide](https://blog.braydoncoyer.dev/creating-the-jamstack-logo-with-css-a-step-by-step-guide)
-- [Setting Yourself Up for Success: How I Define MVP (Minimal Viable Product)](https://blog.braydoncoyer.dev/setting-yourself-up-for-success-how-i-define-mvp-minimal-viable-product)
-- [GatsbyConf 2021 - Gatsby v3.0 And The New Gatsby Plugin Image](https://blog.braydoncoyer.dev/gatsbyconf-2021-gatsby-v30-and-the-new-gatsby-plugin-image)
-- [A Web Developer's iPad Setup for Productivity](https://blog.braydoncoyer.dev/a-web-developers-ipad-setup-for-productivity)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
 >
-> <p>- Ryan Howard</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
