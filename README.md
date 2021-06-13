@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [10 BEST Custom and Creative Developer Blogs in 2021](https://blog.braydoncoyer.dev/10-best-custom-and-creative-developer-blogs-in-2021)
-- [Why Every Developer Should Build Their Own Blog](https://blog.braydoncoyer.dev/why-every-developer-should-build-their-own-blog)
-- [Build a Glassmorphic Navbar with TailwindCSS backdrop-filter & backdrop-blur](https://blog.braydoncoyer.dev/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-and-backdrop-blur)
-- [Creating the JAMstack Logo with CSS: A Step-By-Step Guide](https://blog.braydoncoyer.dev/creating-the-jamstack-logo-with-css-a-step-by-step-guide)
-- [Setting Yourself Up for Success: How I Define MVP (Minimal Viable Product)](https://blog.braydoncoyer.dev/setting-yourself-up-for-success-how-i-define-mvp-minimal-viable-product)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Jim Halpert</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
