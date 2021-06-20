@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [10 BEST Custom and Creative Developer Blogs in 2021](https://blog.braydoncoyer.dev/10-best-custom-and-creative-developer-blogs-in-2021)
-- [Why Every Developer Should Build Their Own Blog](https://blog.braydoncoyer.dev/why-every-developer-should-build-their-own-blog)
-- [Build a Glassmorphic Navbar with TailwindCSS backdrop-filter & backdrop-blur](https://blog.braydoncoyer.dev/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-and-backdrop-blur)
-- [Creating the JAMstack Logo with CSS: A Step-By-Step Guide](https://blog.braydoncoyer.dev/creating-the-jamstack-logo-with-css-a-step-by-step-guide)
-- [Setting Yourself Up for Success: How I Define MVP (Minimal Viable Product)](https://blog.braydoncoyer.dev/setting-yourself-up-for-success-how-i-define-mvp-minimal-viable-product)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
+> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
