@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hold Up - What Are JavaScript Generators?](https://blog.braydoncoyer.dev/hold-up-what-are-javascript-generators)
-- [Technical Interview Preparation and Tips To Consider](https://blog.braydoncoyer.dev/technical-interview-preparation-and-tips-to-consider)
-- [10 BEST Custom and Creative Developer Blogs in 2021](https://blog.braydoncoyer.dev/10-best-custom-and-creative-developer-blogs-in-2021)
-- [Why Every Developer Should Build Their Own Blog](https://blog.braydoncoyer.dev/why-every-developer-should-build-their-own-blog)
-- [Build a Glassmorphic Navbar with TailwindCSS backdrop-filter & backdrop-blur](https://blog.braydoncoyer.dev/build-a-glassmorphic-navbar-with-tailwindcss-backdrop-filter-and-backdrop-blur)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -122,9 +118,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Michael Scott</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
