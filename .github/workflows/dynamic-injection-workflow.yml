@@ -1,0 +1,45 @@
+name: Dynamic README injection
+on:
+  schedule: # Run workflow automatically
+    # This will make it run every hour
+    - cron: "0 * * * *"
+    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
+jobs:
+  get-office-quotes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Let the magic happen
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.6.0
+
+      - run: yarn
+
+      - run: node .
+
+      - name: Add to git repo
+        run: |
+          git config pull.rebase false
+          git pull
+          git add .
+          git config --global user.name "Your Name"
+          git config --global user.email "Your E-Mail"
+          git commit -m "[Automated] README updated with new Office quote!"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  update-readme-with-blog:
+    needs: get-office-quotes
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # Replace this URL with your rss feed URL/s
+          feed_list: "https://braydoncoyer.dev/rss.xml"
