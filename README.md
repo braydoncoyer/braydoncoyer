@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hold Up - What Are JavaScript Generators?](https://braydoncoyer.dev/blog/hold-up-what-are-javascript-generators/)
-- [Technical Interview Preparation and Tips To Consider](https://braydoncoyer.dev/blog/technical-interview-preparation-and-tips-to-consider/)
-- [10 BEST Custom and Creative Developer Blogs in 2021](https://braydoncoyer.dev/blog/10-best-custom-and-creative-developer-blogs-in-2021/)
-- [Why Every Developer Should Build Their Own Blog](https://braydoncoyer.dev/blog/why-every-developer-should-build-their-own-blog/)
-- [Unit Testing Fraud - Why Code Coverage is a Lie](https://braydoncoyer.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
