@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hold Up - What Are JavaScript Generators?](https://braydoncoyer.dev/blog/hold-up-what-are-javascript-generators/)
-- [Technical Interview Preparation and Tips To Consider](https://braydoncoyer.dev/blog/technical-interview-preparation-and-tips-to-consider/)
-- [10 BEST Custom and Creative Developer Blogs in 2021](https://braydoncoyer.dev/blog/10-best-custom-and-creative-developer-blogs-in-2021/)
-- [Why Every Developer Should Build Their Own Blog](https://braydoncoyer.dev/blog/why-every-developer-should-build-their-own-blog/)
-- [Unit Testing Fraud - Why Code Coverage is a Lie](https://braydoncoyer.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Jim Halpert</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
