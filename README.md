@@ -124,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Dwight, you ignorant slut!
 >
-> <p>- Gabe Lewis</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
