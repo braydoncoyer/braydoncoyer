@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gumball Machine: How To Quickly Identify Unit Test Cases](https://braydoncoyer.dev/blog/the-gumball-machine-how-to-quickly-identify-unit-test-cases/)
-- [How to Use the TailwindCSS Typography Plugin](https://braydoncoyer.dev/blog/how-to-use-the-tailwindcss-typography-plugin/)
-- [Hold Up - What Are JavaScript Generators?](https://braydoncoyer.dev/blog/hold-up-what-are-javascript-generators/)
-- [Technical Interview Preparation and Tips To Consider](https://braydoncoyer.dev/blog/technical-interview-preparation-and-tips-to-consider/)
-- [10 BEST Custom and Creative Developer Blogs in 2021](https://braydoncoyer.dev/blog/10-best-custom-and-creative-developer-blogs-in-2021/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Ryan Howard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
