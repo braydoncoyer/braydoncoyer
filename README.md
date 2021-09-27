@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Unit Test an HTTP Service in Angular](https://braydoncoyer.dev/blog/how-to-unit-test-an-http-service-in-angular/)
-- [Use Named Exports over Default Exports in JavaScript](https://braydoncoyer.dev/blog/use-named-exports-over-default-exports-in-javascript/)
-- [The Gumball Machine: How To Quickly Identify Unit Test Cases](https://braydoncoyer.dev/blog/the-gumball-machine-how-to-quickly-identify-unit-test-cases/)
-- [How to Use the TailwindCSS Typography Plugin](https://braydoncoyer.dev/blog/how-to-use-the-tailwindcss-typography-plugin/)
-- [Hold Up - What Are JavaScript Generators?](https://braydoncoyer.dev/blog/hold-up-what-are-javascript-generators/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Erin Hannon</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
