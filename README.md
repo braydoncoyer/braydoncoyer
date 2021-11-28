@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Component Reusability with Bit](https://braydoncoyer.dev/blog/maximize-component-reusability-with-bit/)
-- [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid/)
-- [How to Unit Test an HTTP Service in Angular](https://braydoncoyer.dev/blog/how-to-unit-test-an-http-service-in-angular/)
-- [Use Named Exports over Default Exports in JavaScript](https://braydoncoyer.dev/blog/use-named-exports-over-default-exports-in-javascript/)
-- [The Gumball Machine: How To Quickly Identify Unit Test Cases](https://braydoncoyer.dev/blog/the-gumball-machine-how-to-quickly-identify-unit-test-cases/)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Ryan Howard</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
