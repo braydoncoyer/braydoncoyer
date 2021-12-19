@@ -42,4 +42,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https://braydoncoyer.dev/rss.xml"
+          feed_list: "https://braydoncoyer.dev/rss/feed.xml"
