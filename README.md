@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing My New Blogfolio](https://braydoncoyer.dev/blog/introducing-my-new-blogfolio)
-- [Maximize Component Reusability with Bit](https://braydoncoyer.dev/blog/maximize-component-reusability-with-bit)
-- [How to Feel Empowered as a Developer](https://braydoncoyer.dev/blog/how-to-feel-empowered-as-a-developer)
-- [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid)
-- [How to Unit Test an HTTP Service in Angular](https://braydoncoyer.dev/blog/how-to-unit-test-an-http-service-in-angular)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
 >
-> <p>- Angela Martin</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
