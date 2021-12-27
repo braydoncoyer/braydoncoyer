@@ -124,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
