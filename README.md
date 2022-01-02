@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dynamically Create Open Graph Images with Cloudinary and Next.js](https://braydoncoyer.dev/blog/how-to-dynamically-create-open-graph-images-with-cloudinary-and-next.js)
-- [Introducing My New Blogfolio](https://braydoncoyer.dev/blog/introducing-my-new-blogfolio)
-- [Maximize Component Reusability with Bit](https://braydoncoyer.dev/blog/maximize-component-reusability-with-bit)
-- [How to Feel Empowered as a Developer](https://braydoncoyer.dev/blog/how-to-feel-empowered-as-a-developer)
-- [How to Create a Chat Layout with TailwindCSS and CSS Grid](https://braydoncoyer.dev/blog/how-to-create-a-chat-layout-with-tailwindcss-and-css-grid)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
