@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Newsletter Subscription Form with Next.js API Routes and the Twitter Revue API](https://braydoncoyer.dev/blog/create-a-newsletter-subscription-form-with-next.js-api-routes-and-the-twitter-revue-api)
-- [How to Dynamically Create Open Graph Images with Cloudinary and Next.js](https://braydoncoyer.dev/blog/how-to-dynamically-create-open-graph-images-with-cloudinary-and-next.js)
-- [Introducing My New Blogfolio](https://braydoncoyer.dev/blog/introducing-my-new-blogfolio)
-- [Maximize Component Reusability with Bit](https://braydoncoyer.dev/blog/maximize-component-reusability-with-bit)
-- [How to Feel Empowered as a Developer](https://braydoncoyer.dev/blog/how-to-feel-empowered-as-a-developer)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Creed Bratton</p>
+> <p>- Oscar Martinez</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
