@@ -16,7 +16,11 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Tailwind Gradients - How to Make a Glowing Gradient Background](https://braydoncoyer.dev/blog/tailwind-gradients-how-to-make-a-glowing-gradient-background)
+- [6 BEST Fonts for Programming in 2022](https://braydoncoyer.dev/blog/6-best-fonts-for-programming-in-2022)
+- [A New Opportunity at LogicGate](https://braydoncoyer.dev/blog/a-new-opportunity-at-logicgate)
+- [Create a Newsletter Subscription Form with Next.js API Routes and the Twitter Revue API](https://braydoncoyer.dev/blog/create-a-newsletter-subscription-form-with-next.js-api-routes-and-the-twitter-revue-api)
+- [How to Dynamically Create Open Graph Images with Cloudinary and Next.js](https://braydoncoyer.dev/blog/how-to-dynamically-create-open-graph-images-with-cloudinary-and-next.js)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
