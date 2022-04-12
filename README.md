@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Powerful CSS not Selector](https://braydoncoyer.dev/blog/the-powerful-css-not-selector)
-- [How to Enable Preview Mode in Next.js for your CMS](https://braydoncoyer.dev/blog/how-to-enable-preview-mode-in-next.js-for-your-cms)
-- [Tailwind Gradients - How to Make a Glowing Gradient Background](https://braydoncoyer.dev/blog/tailwind-gradients-how-to-make-a-glowing-gradient-background)
-- [6 BEST Fonts for Programming in 2022](https://braydoncoyer.dev/blog/6-best-fonts-for-programming-in-2022)
-- [A New Opportunity at LogicGate](https://braydoncoyer.dev/blog/a-new-opportunity-at-logicgate)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Andy Bernard</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
