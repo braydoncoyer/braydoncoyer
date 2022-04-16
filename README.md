@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t Need a CS Degree to Land a Web Development Job](https://braydoncoyer.dev/blog/you-don't-need-a-cs-degree-to-land-a-web-development-job)
-- [The Powerful CSS not Selector](https://braydoncoyer.dev/blog/the-powerful-css-not-selector)
-- [How to Enable Preview Mode in Next.js for your CMS](https://braydoncoyer.dev/blog/how-to-enable-preview-mode-in-next.js-for-your-cms)
-- [Tailwind Gradients - How to Make a Glowing Gradient Background](https://braydoncoyer.dev/blog/tailwind-gradients-how-to-make-a-glowing-gradient-background)
-- [6 BEST Fonts for Programming in 2022](https://braydoncoyer.dev/blog/6-best-fonts-for-programming-in-2022)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Ryan Howard</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
