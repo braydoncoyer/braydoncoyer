@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [What Makes a Unit Test Valuable?](https://braydoncoyer.dev/blog/what-makes-a-unit-test-valuable)
-- [You Don&#39;t Need a CS Degree to Land a Web Development Job](https://braydoncoyer.dev/blog/you-don't-need-a-cs-degree-to-land-a-web-development-job)
-- [The Powerful CSS not Selector](https://braydoncoyer.dev/blog/the-powerful-css-not-selector)
-- [How to Enable Preview Mode in Next.js for your CMS](https://braydoncoyer.dev/blog/how-to-enable-preview-mode-in-next.js-for-your-cms)
-- [Tailwind Gradients - How to Make a Glowing Gradient Background](https://braydoncoyer.dev/blog/tailwind-gradients-how-to-make-a-glowing-gradient-background)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
