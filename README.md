@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
-- [Enable Autocomplete for Tailwind CSS in VSCode](https://braydoncoyer.dev/blog/enable-autocomplete-for-tailwind-css-in-vscode)
-- [What Makes a Unit Test Valuable?](https://braydoncoyer.dev/blog/what-makes-a-unit-test-valuable)
-- [You Don&#39;t Need a CS Degree to Land a Web Development Job](https://braydoncoyer.dev/blog/you-don't-need-a-cs-degree-to-land-a-web-development-job)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Creed Bratton</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
