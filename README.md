@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create an Animated Loading Spinner with Tailwind CSS](https://braydoncoyer.dev/blog/how-to-create-an-animated-loading-spinner-with-tailwind-css)
-- [Do Interview Kickstart Courses Live Up to the Cost?](https://braydoncoyer.dev/blog/do-interview-kickstart-courses-live-up-to-the-cost)
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
-- [Enable Autocomplete for Tailwind CSS in VSCode](https://braydoncoyer.dev/blog/enable-autocomplete-for-tailwind-css-in-vscode)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
