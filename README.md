@@ -16,11 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogfolio V3 - Update 2022](https://braydoncoyer.dev/blog/blogfolio-v3-update-2022)
-- [How To Create an Animated Loading Spinner with Tailwind CSS](https://braydoncoyer.dev/blog/how-to-create-an-animated-loading-spinner-with-tailwind-css)
-- [Do Interview Kickstart Courses Live Up to the Cost?](https://braydoncoyer.dev/blog/do-interview-kickstart-courses-live-up-to-the-cost)
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -128,9 +124,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
 >
-> <p>- Kevin Malone</p>
+> <p>- Ryan Howard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
